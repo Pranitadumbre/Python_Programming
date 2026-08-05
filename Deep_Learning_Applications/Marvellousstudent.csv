@@ -1,0 +1,11 @@
+StudentID,Name,Batch,Course,Gender,City,Attendance,Marks,FeesPaid
+1,Amit,Batch A,Python AI,Male,Pune,85,78,15000
+2,Pooja,Batch A,Python AI,Female,Pune,92,88,15000
+3,Rahul,Batch B,PPA,Male,Mumbai,65,55,12000
+4,Sneha,Batch B,PPA,Female,Nashik,75,67,12000
+5,Rohit,Batch A,Python AI,Male,Solapur,45,40,15000
+6,Neha,Batch C,LB,Female,Pune,95,91,25000
+7,Sagar,Batch C,LB,Male,Mumbai,88,84,25000
+8,Kiran,Batch A,Python AI,Male,Pune,70,62,15000
+9,Anjali,Batch C,LB,Female,Nashik,90,86,25000
+10,Vikas,Batch B,PPA,Male,Solapur,55,49,12000
